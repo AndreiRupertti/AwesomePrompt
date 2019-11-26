@@ -1,0 +1,18 @@
+{
+  "name": "awesome-prompt",
+  "version": "1.0.0",
+  "description": "Awesome prompt components for bash experience",
+  "main": "index.js",
+  "author": "AndreiRupertti <arupertti@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "jest": "^24.9.0"
+  }
+}
